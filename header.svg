@@ -3,19 +3,10 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes gradientBackground {
-          0% {
-            background-position: 0% 50%;
-            background: #222;
-          }
-          50% {
-            background-position: 100% 50%;
-            background: rgba(251, 115, 121, 1);
-          }
-          100% {
-            background-position: 0% 50%;
-            background: #444;
-          }
+        @keyframes bg {
+            0%{background-position:4% 0%}
+            50%{background-position:97% 100%}
+            100%{background-position:4% 0%}
         }
 
         @keyframes fadeIn {
@@ -45,11 +36,13 @@
           margin: 0;
           width: 100%;
           height: 400px;
-          background-size: 600% 400%;
-          animation: gradientBackground 50s cubic-bezier(0.32, 0, 0.67, 0) infinite;
+          background: linear-gradient(180deg, #444444, #222222, #fb7379);
+          background-size: 1200% 1200%;
+          animation: bg 50s cubic-bezier(0.32, 0, 0.67, 0) infinite;
           border-radius: 10px;
           color: white;
           text-align: center;
+          text-shadow: 0 0 3px rgba(0, 0, 0, .4);
         }
 
         span {
