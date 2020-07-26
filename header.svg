@@ -66,7 +66,7 @@
         }
       </style>
       <div class="container">
-        <img src="me.png" width="180px" />
+        <img src="https://raw.githubusercontent.com/danmindru/danmindru/master/me.png" width="180px" />
         <h1>Developer and designer of things</h1>
         <p>Potentially not an award winning developer person. <br/>
  Likes to design user interfaces, but also likes pizza 🍕.</p>
