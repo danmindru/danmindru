@@ -66,13 +66,13 @@
           animation: 5s ease 0s normal forwards 1 fadeIn;
         }
         
-        a {
+        .linkLike {
           color: white;
           text-decoration: underline;
           transition: 0.5s color ease;
         }
         
-        a:hover {
+        .linkLike:hover {
           color: gray;
         }
       </style>
@@ -81,7 +81,7 @@
         <h1>Developer and designer of things</h1>
         <p>Potentially not an award winning developer person. <br/>
  Likes to design user interfaces, but also likes pizza 🍕.</p> <br/>
-        <p>Shipping 🚀 <a target="_blank" href="https://apihustle.com">apihustle.com</a></p>
+        <p>Shipping 🚀 <u>apihustle.com</u></p>
       </div>
     </div>
   </foreignObject>
