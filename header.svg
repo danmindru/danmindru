@@ -65,12 +65,23 @@
           font-weight: 400;
           animation: 5s ease 0s normal forwards 1 fadeIn;
         }
+        
+        a {
+          color: white;
+          text-decoration: underline;
+          transition: 0.5s color ease;
+        }
+        
+        a:hover {
+          color: gray;
+        }
       </style>
       <div class="container">
         <span>🧑‍💻 ✨</span>
         <h1>Developer and designer of things</h1>
         <p>Potentially not an award winning developer person. <br/>
- Likes to design user interfaces, but also likes pizza 🍕.</p>
+ Likes to design user interfaces, but also likes pizza 🍕.</p> <br/>
+        <p>Shipping 🚀 <a target="_blank" href="https://apihustle.com">apihustle.com</a></p>
       </div>
     </div>
   </foreignObject>
