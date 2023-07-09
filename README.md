@@ -7,7 +7,9 @@
 -----------------
 
 <div align="center">
-  <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p><br/>
+  <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p>
+
+  <p>If you feel like browsing some of my thoughts, <br/> head over to <a href="https://blog.mindrudan.com">blog.mindrudan.com</a></p><br/>
   
   <a href="https://apihustle.com" target="_blank">
     <img height="60px" src="https://user-images.githubusercontent.com/1515742/215217833-c07183d2-f688-4d1c-86ea-329f3b28f81c.svg" alt="Apihustle Logo" />
