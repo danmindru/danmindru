@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://apihustle.com">
+  <a href="https://pageai.pro">
     <img src="https://raw.githubusercontent.com/danmindru/danmindru/master/header.svg" width="800" height="auto">
   </a>
 </div>
@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
-  <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p>
+  <p>I've shipped over <b><a href="https://blog.mindrudan.com/about">11 startups</a></b> to production. <br/> Check out some of them below.</p>
 
-  <p>If you feel like browsing some of my thoughts, <br/> head over to <a href="https://blog.mindrudan.com">blog.mindrudan.com</a></p><br/>
+  <p>I make <a href="https://www.youtube.com/@MorningMakerShow?sub_confirmation=1">videos</a> and podcast on the <a href="https://morningmakershow.com">Morning Maker Show</a> and sometimes blog on <a href="https://blog.mindrudan.com">blog.mindrudan.com</a></p><br/>
 </div>
 
 -----------------
@@ -19,9 +19,9 @@
 <br/>
 
 <div align="center">
-   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" /></a> <br/>
-  Create a blog & landing page in minutes <br/> 
-  with <b>Shipixen</b>. Get started on <a href="https://shipixen.com">shipixen.com</a>.
+   <a href="https://pageai.pro" target="_blank"><img height="120px" src="https://github.com/user-attachments/assets/9bfbfe6f-add9-45de-aaf2-5c6043a47e41" alt="Page AI Logo" /></a> <br/>
+  The best AI website generator that<br/> 
+  designs and writes content for you. Get started on <a href="https://pageai.pro">pageai.pro</a>.
 </div>
 
 <br/>
@@ -34,11 +34,12 @@
   
 |    |    |    |    |
 | :- | :- | :- | :- |
-| <a href="https://shipixen.com" target="_blank"><img height="70px" src="https://github.com/apihustle/apihustle/assets/1515742/3af97560-d774-4149-96c5-65d3cc530a5a" alt="Shipixen Logo" /></a> | **Shipixen** | Create a personalized blog & landing page in minutes | [shipixen.com](https://shipixen.com) | 
-| <a href="https://pageui.dev" target="_blank"><img height="70px" src="https://github.com/apihustle/apihustle/assets/1515742/953cc5ab-bbf4-4a19-9b16-c74d218b63b4" alt="Page UI Logo" /></a> | **Page UI** | Landing page UI components for React & Next.js | [pageui.dev](https://pageui.dev) | 
-| <a href="https://clobbr.app" target="_blank"><img height="70px" src="https://github.com/apihustle/apihustle/assets/1515742/50c11d46-a025-40fd-b154-0a5984556f6e" alt="Clobbr Logo" /></a> | **Clobbr** | Load test your API endpoints. | [clobbr.app](https://clobbr.app) | 
-| <a href="https://crontap.com" target="_blank"><img height="70px" src="https://github.com/apihustle/apihustle/assets/1515742/fe1aac71-b663-4f8e-a225-0c47b2eee14d" alt="Crontap Logo" /></a> | **Crontap** | Schedule API calls using cron syntax. | [crontap.com](https://crontap.com) | 
-| <a href="https://tool.crontap.com" target="_blank"><img height="70px" src="https://github.com/apihustle/apihustle/assets/1515742/713ff923-b03c-43ec-9cfd-75e542d0f5c4" alt="CronTool Logo" /></a> | **CronTool** | Debug multiple cron expressions on a calendar. | [tool.crontap.com](https://tool.crontap.com)  |
+| <a href="https://pageai.pro" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/9bfbfe6f-add9-45de-aaf2-5c6043a47e41" alt="Page AI Logo" /></a> | **Page AI** | AI Website Generator that designs and writes clean code. | [pageai.pro](https://pageai.pro) | 
+| <a href="https://shipixen.com" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/e1deba72-328e-4d3c-9c62-11ab77184561" alt="Shipixen Logo" /></a> | **Shipixen** | Create a personalized blog & landing page in minutes | [shipixen.com](https://shipixen.com) | 
+| <a href="https://pageui.dev" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/b8815b62-598a-4fca-bc27-c03e66c8b105" alt="Page UI Logo" /></a> | **Page UI** | Landing page UI components for React & Next.js | [pageui.dev](https://pageui.dev) | 
+| <a href="https://clobbr.app" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/cb3e64e2-efaa-436b-ae6d-0ea4b47e4004" alt="Clobbr Logo" /></a> | **Clobbr** | Load test your API endpoints. | [clobbr.app](https://clobbr.app) | 
+| <a href="https://crontap.com" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/38a3d734-d1ca-4f92-9cfb-ada52b9f2ffb" alt="Crontap Logo" /></a> | **Crontap** | Schedule API calls using cron syntax. | [crontap.com](https://crontap.com) | 
+| <a href="https://tool.crontap.com" target="_blank"><img height="70px" width="230px" src="https://github.com/user-attachments/assets/545f7618-ff2c-47fa-ad17-e17e38155f55" alt="CronTool Logo" /></a> | **CronTool** | Debug multiple cron expressions on a calendar. | [tool.crontap.com](https://tool.crontap.com)  |
 
 </div>
 
