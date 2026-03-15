@@ -11,7 +11,7 @@
 <div align="center">
   <p>I shipped over <b><a href="https://blog.mindrudan.com/about">9 startups</a></b> to production. <br/> Check out some of them below.</p>
 
-  <p>I make <a href="https://www.youtube.com/@MorningMakerShow?sub_confirmation=1">videos</a> and podcast on the <a href="https://morningmakershow.com">Morning Maker Show</a> and sometimes blog on <a href="https://blog.mindrudan.com">blog.mindrudan.com</a></p><br/>
+  <p>I make <a href="https://www.youtube.com/@MorningMakerShow?sub_confirmation=1">videos</a> and podcast on the <a href="https://morningmakershow.com">Morning Maker Show</a> and sometimes blog on <a href="https://mindrudan.com">mindrudan.com</a></p><br/>
 </div>
 
 -----------------
