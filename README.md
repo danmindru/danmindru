@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
-  <p>I shipped over <b><a href="https://blog.mindrudan.com/about">9 startups</a></b> to production. <br/> Check out some of them below.</p>
+  <p>I shipped over <b><a href="https://mindrudan.com/startups">9 startups</a></b> to production. <br/> Check out some of them below.</p>
 
-  <p>I make <a href="https://www.youtube.com/@MorningMakerShow?sub_confirmation=1">videos</a> and podcast on the <a href="https://morningmakershow.com">Morning Maker Show</a> and sometimes blog on <a href="https://mindrudan.com">mindrudan.com</a></p><br/>
+  <p>I make <a href="https://www.youtube.com/@MorningMakerShow?sub_confirmation=1">videos 📺</a> and podcast on the <a href="https://morningmakershow.com">Morning Maker Show 🎙️</a>.</p><br/>
 </div>
 
 -----------------
@@ -39,7 +39,8 @@
 | <a href="https://pageui.dev" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/b8815b62-598a-4fca-bc27-c03e66c8b105" alt="Page UI Logo" /></a> | **Page UI** | Landing page UI components for React & Next.js | [pageui.dev](https://pageui.dev) | 
 | <a href="https://clobbr.app" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/cb3e64e2-efaa-436b-ae6d-0ea4b47e4004" alt="Clobbr Logo" /></a> | **Clobbr** | Load test your API endpoints. | [clobbr.app](https://clobbr.app) | 
 | <a href="https://crontap.com" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/38a3d734-d1ca-4f92-9cfb-ada52b9f2ffb" alt="Crontap Logo" /></a> | **Crontap** | Schedule API calls using cron syntax. | [crontap.com](https://crontap.com) | 
-| <a href="https://tool.crontap.com" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/545f7618-ff2c-47fa-ad17-e17e38155f55" alt="CronTool Logo" /></a> | **CronTool** | Debug multiple cron expressions on a calendar. | [tool.crontap.com](https://tool.crontap.com)  |
+| <a href="https://tool.crontap.com" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/545f7618-ff2c-47fa-ad17-e17e38155f55" alt="CronTool Logo" /></a> | **CronTool** | Debug multiple cron expressions on a calendar. | [crontool.cc](https://crontool.cc)  |
+| <a href="https://rarebigdeal.com" target="_blank"><img  width="54px" src="https://github.com/user-attachments/assets/b9f30518-908e-4142-8bfd-a3385ad6f543" alt="Rare Big Deal Logo" /></a> | **Rare Big Deal** | Limited time deals on the best apps. | [rarebigdeal.com](https://rarebigdeal.com) | 
 
 </div>
 
@@ -48,7 +49,7 @@
 <div align="center">
   See more tools on <br/>
   
-  [apihustle.com](https://apihustle.com) <br/>
+  [mindrudan.com/startups](https://mindrudan.com/startups) <br/>
   
   <a href="https://apihustle.com" target="_blank">
     <img height="60px" src="https://user-images.githubusercontent.com/1515742/215217833-c07183d2-f688-4d1c-86ea-329f3b28f81c.svg" alt="Apihustle Logo" />
